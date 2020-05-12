@@ -1,0 +1,6 @@
+site_name: 开源物联网云平台
+nav:
+    - Home: index.md
+    - First: test.md
+theme:
+  name: 'material'
